@@ -1,5 +1,7 @@
 # Pollution Monitoring System using MQ-135 Sensor and IoT
 
+<p align="right">Author: Yash Sharma</p>
+
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Features](#features)
@@ -10,7 +12,7 @@
 7. [Code Explanation](#code-explanation)
 8. [Running the Project](#running-the-project)
 9. [App Integration](#app-integration)
-10. [Future Enhancements](#future-enhancements)
+10. [File Structure](#file-structure)
 11. [License](#license)
 
 ---
@@ -23,30 +25,32 @@ This project monitors the pollution levels in a specific area using the MQ-135 g
 
 ## Features
 
-- *Real-time Pollution Monitoring*: Continuous tracking of air quality using the MQ-135 sensor.
-- *IoT Integration*: Sends pollution data to a mobile or web app for easy visualization.
-- *User Notifications*: Alerts when pollution levels exceed a threshold.
-- *Simple Setup*: Easy-to-follow wiring and coding setup.
+- **Real-time Pollution Monitoring**: Continuous tracking of air quality using the MQ-135 sensor.
+- **IoT Integration**: Sends pollution data to a mobile or web app for easy visualization.
+- **User Notifications**: Alerts when pollution levels exceed a threshold.
+- **Simple Setup**: Easy-to-follow wiring and coding setup.
 
 ---
 
---- Interface
----Below is the circuit diagram for the project setup:
+## Interface
+
+Below is the interface for app:
 
 ![Interface](assets/1.png)
 ![Interface](assets/2.png)
 
+---
 
 ## Components and Materials
 
-- *MQ-135 Gas Sensor*
-- *Arduino UNO*
-- *ESP8266 Wi-Fi Module*
-- *Breadboard*
-- *Jumper Wires*
-- *USB Cable for Arduino*
-- *Resistors (10k ohm)*
-- *Power Supply (5V)*
+- **MQ-135 Gas Sensor**
+- **Arduino UNO**
+- **ESP8266 Wi-Fi Module**
+- **Breadboard**
+- **Jumper Wires**
+- **USB Cable for Arduino**
+- **Resistors (10k ohm)**
+- **Power Supply (5V)**
 
 ---
 
@@ -72,20 +76,19 @@ Follow these connections to set up the hardware:
 | RX          | TX (via 1k resistor) |
 | CH_PD       | 3.3V        |
 
-> *Note*: Use a voltage divider (with 1k resistors) for the ESP8266's RX pin to protect it from 5V logic.
-
----Below is the circuit diagram for the project setup:
+> **Note**: Use a voltage divider (with 1k resistors) for the ESP8266's RX pin to protect it from 5V logic.
 
 ![Circuit Diagram](assets/circuit_image.png)
 
+---
 
 ## Software Requirements
 
-- *Arduino IDE* (for programming the Arduino)
-- *Libraries*:
+- **Arduino IDE** (for programming the Arduino)
+- **Libraries**:
   - WiFiEsp (for ESP8266 communication)
   - MQ135 (for sensor readings)
-- *IoT App* (Flutter-based mobile app or any preferred IoT platform)
+- **IoT App** (Flutter-based mobile app or any preferred IoT platform)
 
 ---
 
@@ -95,7 +98,7 @@ Follow these connections to set up the hardware:
 
 Install the following libraries via the Arduino IDE:
 
-1. Go to *Sketch > Include Library > Manage Libraries*.
+1. Go to **Sketch > Include Library > Manage Libraries**.
 2. Search for and install:
    - WiFiEsp
    - MQ135
@@ -109,7 +112,9 @@ const char* ssid = "YOUR_WIFI_SSID";
 const char* password = "YOUR_WIFI_PASSWORD";
 const char* server = "YOUR_SERVER_URL";
 
-##File_Structure
+---
+
+## File Structure
 Here is the directory structure for this project:
 
 graphql
@@ -124,9 +129,8 @@ cnproj_app/
 │   └── lib/
 ├── .gitignore             # Git ignore file
 └── LICENSE                # Project license file
+---
 
-##License
-
+## License
 This project is licensed under the MIT License. Feel free to use and modify it.
-
-
+---
