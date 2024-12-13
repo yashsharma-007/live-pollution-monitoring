@@ -30,6 +30,13 @@ This project monitors the pollution levels in a specific area using the MQ-135 g
 
 ---
 
+--- Interface
+---Below is the circuit diagram for the project setup:
+
+![Interface](assets/1.png)
+![Interface](assets/2.png)
+
+
 ## Components and Materials
 
 - *MQ-135 Gas Sensor*
@@ -67,7 +74,10 @@ Follow these connections to set up the hardware:
 
 > *Note*: Use a voltage divider (with 1k resistors) for the ESP8266's RX pin to protect it from 5V logic.
 
----
+---Below is the circuit diagram for the project setup:
+
+![Circuit Diagram](assets/circuit_image.png)
+
 
 ## Software Requirements
 
@@ -98,3 +108,25 @@ Update the following variables in the code:
 const char* ssid = "YOUR_WIFI_SSID";
 const char* password = "YOUR_WIFI_PASSWORD";
 const char* server = "YOUR_SERVER_URL";
+
+##File_Structure
+Here is the directory structure for this project:
+
+graphql
+Copy code
+cnproj_app/
+├── assets/                # Contains images (e.g., circuit diagram)
+│   └── circuit_diagram.png
+├── src/                   # Source code for Arduino
+│   └── main.ino
+├── README.md              # Project documentation
+├── app/                   # IoT app code (e.g., Flutter app)
+│   └── lib/
+├── .gitignore             # Git ignore file
+└── LICENSE                # Project license file
+
+##License
+
+This project is licensed under the MIT License. Feel free to use and modify it.
+
+
