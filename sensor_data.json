@@ -1,0 +1,138 @@
+[
+    {
+        "location": "AB3",
+        "temperature": 30.2,
+        "humidity": 69.0,
+        "mq2": 233,
+        "mq7": 268,
+        "mq135": 253
+    },
+    {
+        "location": "AB3",
+        "temperature": 30.2,
+        "humidity": 69.0,
+        "mq2": 234,
+        "mq7": 269,
+        "mq135": 254
+    },
+    {
+        "location": "AB3",
+        "temperature": 30.2,
+        "humidity": 69.0,
+        "mq2": 233,
+        "mq7": 268,
+        "mq135": 253
+    },
+    {
+        "location": "AB3",
+        "temperature": 30.2,
+        "humidity": 69.0,
+        "mq2": 237,
+        "mq7": 272,
+        "mq135": 257
+    },
+    {
+        "location": "AB3",
+        "temperature": 30.2,
+        "humidity": 69.0,
+        "mq2": 235,
+        "mq7": 270,
+        "mq135": 255
+    },
+    {
+        "location": "AB3",
+        "temperature": 30.2,
+        "humidity": 69.0,
+        "mq2": 225,
+        "mq7": 260,
+        "mq135": 245
+    },
+    {
+        "location": "AB3",
+        "temperature": 30.2,
+        "humidity": 69.0,
+        "mq2": 224,
+        "mq7": 259,
+        "mq135": 244
+    },
+    {
+        "location": "AB3",
+        "temperature": 30.2,
+        "humidity": 69.0,
+        "mq2": 223,
+        "mq7": 258,
+        "mq135": 243
+    },
+    {
+        "location": "AB3",
+        "temperature": 30.2,
+        "humidity": 69.0,
+        "mq2": 222,
+        "mq7": 257,
+        "mq135": 242
+    },
+    {
+        "location": "AB3",
+        "temperature": 30.5,
+        "humidity": 69.0,
+        "mq2": 222,
+        "mq7": 257,
+        "mq135": 242
+    },
+    {
+        "location": "AB3",
+        "temperature": 30.7,
+        "humidity": 69.0,
+        "mq2": 218,
+        "mq7": 253,
+        "mq135": 238
+    },
+    {
+        "location": "AB3",
+        "temperature": 30.8,
+        "humidity": 69.0,
+        "mq2": 220,
+        "mq7": 255,
+        "mq135": 240
+    },
+    {
+        "location": "AB3",
+        "temperature": 30.8,
+        "humidity": 69.0,
+        "mq2": 217,
+        "mq7": 252,
+        "mq135": 237
+    },
+    {
+        "location": "AB3",
+        "temperature": 30.8,
+        "humidity": 69.0,
+        "mq2": 202,
+        "mq7": 237,
+        "mq135": 222
+    },
+    {
+        "location": "AB3",
+        "temperature": 30.8,
+        "humidity": 69.0,
+        "mq2": 213,
+        "mq7": 248,
+        "mq135": 233
+    },
+    {
+        "location": "AB3",
+        "temperature": 30.8,
+        "humidity": 69.0,
+        "mq2": 213,
+        "mq7": 248,
+        "mq135": 233
+    },
+    {
+        "location": "AB3",
+        "temperature": 30.8,
+        "humidity": 69.0,
+        "mq2": 213,
+        "mq7": 248,
+        "mq135": 233
+    }
+]

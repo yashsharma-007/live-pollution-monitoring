@@ -1,0 +1,191 @@
+[
+    {
+        "location": "AB3 Backside",
+        "time": "8am",
+        "temperature": 29.5,
+        "humidity": 50.0,
+        "mq2": 410,
+        "mq7": 440,
+        "mq135": 430
+    },
+    {
+        "location": "AB3 Backside",
+        "time": "10am",
+        "temperature": 29.4,
+        "humidity": 50.0,
+        "mq2": 410,
+        "mq7": 440,
+        "mq135": 430
+    },
+    {
+        "location": "AB3 Backside",
+        "time": "12pm",
+        "temperature": 29.4,
+        "humidity": 50.0,
+        "mq2": 438,
+        "mq7": 455,
+        "mq135": 445
+    },
+    {
+        "location": "AB3 Backside",
+        "time": "3pm",
+        "temperature": 34.0,
+        "humidity": 45.0,
+        "mq2": 455,
+        "mq7": 470,
+        "mq135": 465
+    },
+    {
+        "location": "AB3 Backside",
+        "time": "5pm",
+        "temperature": 34.0,
+        "humidity": 45.0,
+        "mq2": 455,
+        "mq7": 475,
+        "mq135": 470
+    },
+    {
+        "location": "AB3 Backside",
+        "time": "7pm",
+        "temperature": 31.0,
+        "humidity": 45.0,
+        "mq2": 420,
+        "mq7": 450,
+        "mq135": 440
+    },
+    {
+        "location": "AB3 Backside",
+        "time": "9pm",
+        "temperature": 29.2,
+        "humidity": 45.0,
+        "mq2": 405,
+        "mq7": 420,
+        "mq135": 400
+    },
+    {
+        "location": "MGR Statue",
+        "time": "8am",
+        "temperature": 29.0,
+        "humidity": 53.0,
+        "mq2": 370,
+        "mq7": 400,
+        "mq135": 395
+    },
+    {
+        "location": "MGR Statue",
+        "time": "10am",
+        "temperature": 29.0,
+        "humidity": 53.0,
+        "mq2": 370,
+        "mq7": 400,
+        "mq135": 395
+    },
+    {
+        "location": "MGR Statue",
+        "time": "12pm",
+        "temperature": 29.0,
+        "humidity": 53.0,
+        "mq2": 380,
+        "mq7": 410,
+        "mq135": 405
+    },
+    {
+        "location": "MGR Statue",
+        "time": "3pm",
+        "temperature": 34.0,
+        "humidity": 50.0,
+        "mq2": 395,
+        "mq7": 420,
+        "mq135": 410
+    },
+    {
+        "location": "MGR Statue",
+        "time": "5pm",
+        "temperature": 34.0,
+        "humidity": 50.0,
+        "mq2": 395,
+        "mq7": 425,
+        "mq135": 415
+    },
+    {
+        "location": "MGR Statue",
+        "time": "7pm",
+        "temperature": 31.0,
+        "humidity": 50.0,
+        "mq2": 368,
+        "mq7": 400,
+        "mq135": 380
+    },
+    {
+        "location": "MGR Statue",
+        "time": "9pm",
+        "temperature": 29.3,
+        "humidity": 50.0,
+        "mq2": 359,
+        "mq7": 380,
+        "mq135": 370
+    },
+    {
+        "location": "A block",
+        "time": "8am",
+        "temperature": 29.0,
+        "humidity": 62.0,
+        "mq2": 320,
+        "mq7": 350,
+        "mq135": 345
+    },
+    {
+        "location": "A block",
+        "time": "10am",
+        "temperature": 29.0,
+        "humidity": 62.0,
+        "mq2": 320,
+        "mq7": 350,
+        "mq135": 345
+    },
+    {
+        "location": "A block",
+        "time": "12pm",
+        "temperature": 29.0,
+        "humidity": 62.0,
+        "mq2": 335,
+        "mq7": 360,
+        "mq135": 355
+    },
+    {
+        "location": "A block",
+        "time": "3pm",
+        "temperature": 34.0,
+        "humidity": 55.0,
+        "mq2": 352,
+        "mq7": 375,
+        "mq135": 365
+    },
+    {
+        "location": "A block",
+        "time": "5pm",
+        "temperature": 34.0,
+        "humidity": 55.0,
+        "mq2": 357,
+        "mq7": 380,
+        "mq135": 370
+    },
+    {
+        "location": "A block",
+        "time": "7pm",
+        "temperature": 31.0,
+        "humidity": 55.0,
+        "mq2": 349,
+        "mq7": 370,
+        "mq135": 360
+    },
+    {
+        "location": "A block",
+        "time": "9pm",
+        "temperature": 29.0,
+        "humidity": 55.0,
+        "mq2": 338,
+        "mq7": 360,
+        "mq135": 350
+    }
+]

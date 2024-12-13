@@ -1,0 +1,1221 @@
+{"temperature": 31.3, "humidity": 66.0, "mq2": 238, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 66.0, "mq2": 238, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 66.0, "mq2": 238, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 66.0, "mq2": 238, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 66.0, "mq2": 238, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 66.0, "mq2": 238, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 66.0, "mq2": 238, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 66.0, "mq2": 238, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 66.0, "mq2": 240, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 68.0, "mq2": 242, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 67.0, "mq2": 241, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 67.0, "mq2": 238, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 67.0, "mq2": 237, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 66.0, "mq2": 237, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 66.0, "mq2": 237, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 66.0, "mq2": 237, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 66.0, "mq2": 236, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 66.0, "mq2": 237, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 65.0, "mq2": 237, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 65.0, "mq2": 237, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 65.0, "mq2": 237, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 65.0, "mq2": 237, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 65.0, "mq2": 237, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 65.0, "mq2": 237, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 65.0, "mq2": 237, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 65.0, "mq2": 237, "mq7": 1, "mq135": 1}
+{"temperature": 31.7, "humidity": 65.0, "mq2": 230, "mq7": 1, "mq135": 1}
+{"temperature": 31.6, "humidity": 65.0, "mq2": 238, "mq7": 1, "mq135": 1}
+{"temperature": 31.4, "humidity": 65.0, "mq2": 238, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 238, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 238, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 240, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 238, "mq7": 1, "mq135": 1}
+{"temperature": 31.4, "humidity": 65.0, "mq2": 240, "mq7": 1, "mq135": 1}
+{"temperature": 31.6, "humidity": 65.0, "mq2": 240, "mq7": 1, "mq135": 1}
+{"temperature": 31.6, "humidity": 65.0, "mq2": 240, "mq7": 1, "mq135": 1}
+{"temperature": 31.6, "humidity": 65.0, "mq2": 240, "mq7": 1, "mq135": 1}
+{"temperature": 31.7, "humidity": 65.0, "mq2": 240, "mq7": 1, "mq135": 1}
+{"temperature": 31.6, "humidity": 65.0, "mq2": 233, "mq7": 1, "mq135": 1}
+{"temperature": 31.6, "humidity": 65.0, "mq2": 241, "mq7": 1, "mq135": 1}
+{"temperature": 31.7, "humidity": 65.0, "mq2": 241, "mq7": 1, "mq135": 1}
+{"temperature": 31.6, "humidity": 65.0, "mq2": 241, "mq7": 1, "mq135": 1}
+{"temperature": 31.6, "humidity": 65.0, "mq2": 241, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 65.0, "mq2": 241, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 65.0, "mq2": 241, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 65.0, "mq2": 242, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 65.0, "mq2": 233, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 65.0, "mq2": 241, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 65.0, "mq2": 242, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 65.0, "mq2": 234, "mq7": 1, "mq135": 1}
+{"temperature": 31.7, "humidity": 65.0, "mq2": 242, "mq7": 1, "mq135": 1}
+{"temperature": 31.7, "humidity": 65.0, "mq2": 242, "mq7": 1, "mq135": 1}
+{"temperature": 31.6, "humidity": 65.0, "mq2": 241, "mq7": 1, "mq135": 1}
+{"temperature": 31.6, "humidity": 65.0, "mq2": 241, "mq7": 1, "mq135": 1}
+{"temperature": 31.7, "humidity": 65.0, "mq2": 241, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 65.0, "mq2": 233, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 65.0, "mq2": 241, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 65.0, "mq2": 242, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 65.0, "mq2": 242, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 65.0, "mq2": 242, "mq7": 1, "mq135": 1}
+{"temperature": 31.7, "humidity": 65.0, "mq2": 242, "mq7": 1, "mq135": 1}
+{"temperature": 31.7, "humidity": 65.0, "mq2": 242, "mq7": 1, "mq135": 1}
+{"temperature": 31.6, "humidity": 65.0, "mq2": 242, "mq7": 1, "mq135": 1}
+{"temperature": 31.4, "humidity": 65.0, "mq2": 241, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 241, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 242, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 242, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 242, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 242, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 242, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 243, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 243, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 243, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 243, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 242, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 243, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 242, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 242, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 242, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 242, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 242, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 241, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 241, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 241, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 242, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 242, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 241, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 234, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 242, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 242, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 242, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 234, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 243, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 243, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 243, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 243, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 235, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 243, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 242, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 243, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 243, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 243, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 243, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 235, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 243, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 243, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 243, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 243, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 243, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 243, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 243, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 243, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 243, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 243, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 244, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 235, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 244, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 244, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 245, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 245, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 246, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 245, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 244, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 244, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 244, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 244, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 244, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 244, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 236, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 246, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 246, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 246, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 246, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 246, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 247, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 246, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 247, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 238, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 247, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 247, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 246, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 247, "mq7": 1, "mq135": 1}
+{"temperature": 31.4, "humidity": 65.0, "mq2": 247, "mq7": 1, "mq135": 1}
+{"temperature": 31.4, "humidity": 65.0, "mq2": 247, "mq7": 1, "mq135": 1}
+{"temperature": 31.5, "humidity": 65.0, "mq2": 247, "mq7": 1, "mq135": 1}
+{"temperature": 31.5, "humidity": 65.0, "mq2": 247, "mq7": 1, "mq135": 1}
+{"temperature": 31.7, "humidity": 65.0, "mq2": 246, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 65.0, "mq2": 245, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 65.0, "mq2": 245, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 65.0, "mq2": 245, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 65.0, "mq2": 246, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 65.0, "mq2": 247, "mq7": 1, "mq135": 1}
+{"temperature": 31.6, "humidity": 65.0, "mq2": 248, "mq7": 1, "mq135": 1}
+{"temperature": 31.4, "humidity": 65.0, "mq2": 249, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 252, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 252, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 244, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 245, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 255, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 246, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 256, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 259, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 259, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 260, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 261, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 261, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 261, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 261, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 261, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 260, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 258, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 258, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 258, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 257, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 257, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 250, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 258, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 259, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 249, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 257, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 257, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 257, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 257, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 259, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 258, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 258, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 258, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 258, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 258, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 258, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 258, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 258, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 257, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 257, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 257, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 257, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 256, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 256, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 256, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 256, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 256, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 256, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 256, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 255, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 255, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 255, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 255, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 255, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 256, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 255, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 255, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 244, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 244, "mq7": 1, "mq135": 1}
+{"temperature": 31.3, "humidity": 65.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.4, "humidity": 65.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.7, "humidity": 65.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 65.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 65.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 65.0, "mq2": 256, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 65.0, "mq2": 256, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 256, "mq7": 1, "mq135": 1}
+{"temperature": 31.7, "humidity": 64.0, "mq2": 256, "mq7": 1, "mq135": 1}
+{"temperature": 31.5, "humidity": 64.0, "mq2": 256, "mq7": 1, "mq135": 1}
+{"temperature": 31.6, "humidity": 64.0, "mq2": 256, "mq7": 1, "mq135": 1}
+{"temperature": 31.7, "humidity": 65.0, "mq2": 245, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 65.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 65.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 65.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 65.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 65.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 65.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 246, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 255, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 252, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 252, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 250, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 252, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 252, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 252, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 252, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 252, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 249, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 249, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 249, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 249, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 249, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 248, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 242, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 248, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 248, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 248, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 248, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 248, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 248, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 249, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 249, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 248, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 249, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 250, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 243, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 243, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 252, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 252, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 252, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 252, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 252, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 244, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 244, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 244, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 65.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 65.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 65.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 242, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 248, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 248, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 247, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 247, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 247, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 247, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 247, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 248, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 248, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 248, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 248, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 249, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 250, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 250, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 252, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 252, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 252, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 252, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 252, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 252, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 243, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 252, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 252, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 252, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 244, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 244, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 252, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 252, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 252, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 252, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 252, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 252, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 252, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 250, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 249, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 250, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 249, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 252, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 253, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 255, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 255, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 255, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 255, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 255, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 255, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 255, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 255, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 255, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 247, "mq7": 1, "mq135": 1}
+{"temperature": 31.9, "humidity": 64.0, "mq2": 255, "mq7": 1, "mq135": 1}
+{"temperature": 31.9, "humidity": 64.0, "mq2": 255, "mq7": 1, "mq135": 1}
+{"temperature": 31.9, "humidity": 64.0, "mq2": 255, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 254, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 255, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 255, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 256, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 255, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 64.0, "mq2": 255, "mq7": 1, "mq135": 1}
+{"temperature": 32.0, "humidity": 64.0, "mq2": 256, "mq7": 1, "mq135": 1}
+{"temperature": 32.1, "humidity": 64.0, "mq2": 247, "mq7": 1, "mq135": 1}
+{"temperature": 32.2, "humidity": 64.0, "mq2": 256, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 64.0, "mq2": 256, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 64.0, "mq2": 256, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 64.0, "mq2": 256, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 64.0, "mq2": 256, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 64.0, "mq2": 256, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 64.0, "mq2": 255, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 64.0, "mq2": 246, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 64.0, "mq2": 255, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 64.0, "mq2": 256, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 64.0, "mq2": 247, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 64.0, "mq2": 247, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 64.0, "mq2": 256, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 64.0, "mq2": 256, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 64.0, "mq2": 256, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 64.0, "mq2": 256, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 64.0, "mq2": 247, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 64.0, "mq2": 256, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 64.0, "mq2": 256, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 64.0, "mq2": 247, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 64.0, "mq2": 256, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 64.0, "mq2": 256, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 64.0, "mq2": 255, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 64.0, "mq2": 255, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 56.0, "mq2": 354, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 56.0, "mq2": 381, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 56.0, "mq2": 358, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 56.0, "mq2": 356, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 56.0, "mq2": 357, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 56.0, "mq2": 363, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 56.0, "mq2": 364, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 56.0, "mq2": 373, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 56.0, "mq2": 366, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 56.0, "mq2": 363, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 56.0, "mq2": 374, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 56.0, "mq2": 356, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 56.0, "mq2": 355, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 56.0, "mq2": 346, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 56.0, "mq2": 348, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 56.0, "mq2": 340, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 56.0, "mq2": 339, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 56.0, "mq2": 334, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 56.0, "mq2": 331, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 56.0, "mq2": 331, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 56.0, "mq2": 361, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 56.0, "mq2": 325, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 56.0, "mq2": 340, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 56.0, "mq2": 328, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 56.0, "mq2": 330, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 55.0, "mq2": 330, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 55.0, "mq2": 327, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 55.0, "mq2": 325, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 55.0, "mq2": 316, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 55.0, "mq2": 324, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 55.0, "mq2": 314, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 55.0, "mq2": 337, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 55.0, "mq2": 343, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 55.0, "mq2": 310, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 55.0, "mq2": 328, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 55.0, "mq2": 324, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 55.0, "mq2": 313, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 55.0, "mq2": 324, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 55.0, "mq2": 317, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 55.0, "mq2": 329, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 55.0, "mq2": 330, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 55.0, "mq2": 328, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 55.0, "mq2": 312, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 55.0, "mq2": 321, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 54.0, "mq2": 410, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 54.0, "mq2": 436, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 408, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 408, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 406, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 404, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 401, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 397, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 477, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 502, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 513, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 509, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 504, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 498, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 494, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 482, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 475, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 469, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 459, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 450, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 450, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 447, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 447, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 447, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 445, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 446, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 440, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 438, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 438, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 433, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 428, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 426, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 410, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 415, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 416, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 414, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 410, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 402, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 54.0, "mq2": 394, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 54.0, "mq2": 388, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 54.0, "mq2": 389, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 387, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 387, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 388, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 388, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 389, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 389, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 387, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 386, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 373, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 381, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 385, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 384, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 382, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 382, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 381, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 375, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 373, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 380, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 379, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 376, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 367, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 377, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 378, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 378, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 372, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 358, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 378, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 368, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 361, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 54.0, "mq2": 370, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 369, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 54.0, "mq2": 363, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 363, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 356, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 342, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 341, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 350, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 351, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 343, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 353, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 54.0, "mq2": 353, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 55.0, "mq2": 354, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 54.0, "mq2": 354, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 54.0, "mq2": 348, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 54.0, "mq2": 340, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 54.0, "mq2": 341, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 54.0, "mq2": 343, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 54.0, "mq2": 349, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 54.0, "mq2": 346, "mq7": 1, "mq135": 1}
+{"temperature": 33.3, "humidity": 54.0, "mq2": 348, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 249, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 258, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 228, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 278, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 286, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 293, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 297, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 302, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 304, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 305, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 308, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 307, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 283, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 276, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 249, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 223, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 223, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 218, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 229, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 223, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 223, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 208, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 214, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 210, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 201, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 216, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 228, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 260, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 245, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 255, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 268, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 290, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 279, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 274, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 280, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 245, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 274, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 288, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 296, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 306, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 55.0, "mq2": 259, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 54.0, "mq2": 363, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 54.0, "mq2": 381, "mq7": 1, "mq135": 1}
+{"temperature": 31.8, "humidity": 54.0, "mq2": 387, "mq7": 1, "mq135": 1}
+{"temperature": 31.9, "humidity": 54.0, "mq2": 388, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 54.0, "mq2": 388, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 54.0, "mq2": 386, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 54.0, "mq2": 378, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 54.0, "mq2": 360, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 54.0, "mq2": 363, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 54.0, "mq2": 354, "mq7": 1, "mq135": 1}
+{"temperature": 32.2, "humidity": 54.0, "mq2": 361, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 54.0, "mq2": 365, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 54.0, "mq2": 365, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 68.0, "mq2": 188, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 68.0, "mq2": 230, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 68.0, "mq2": 264, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 68.0, "mq2": 278, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 68.0, "mq2": 286, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 68.0, "mq2": 289, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 68.0, "mq2": 280, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 68.0, "mq2": 289, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 68.0, "mq2": 288, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 68.0, "mq2": 288, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 68.0, "mq2": 285, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 68.0, "mq2": 284, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 68.0, "mq2": 283, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 68.0, "mq2": 282, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 68.0, "mq2": 281, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 68.0, "mq2": 280, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 68.0, "mq2": 278, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 68.0, "mq2": 277, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 68.0, "mq2": 268, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 68.0, "mq2": 276, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 68.0, "mq2": 276, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 68.0, "mq2": 274, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 68.0, "mq2": 273, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 68.0, "mq2": 273, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 68.0, "mq2": 272, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 68.0, "mq2": 271, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 68.0, "mq2": 271, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 68.0, "mq2": 270, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 68.0, "mq2": 269, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 67.0, "mq2": 268, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 67.0, "mq2": 267, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 67.0, "mq2": 267, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 67.0, "mq2": 266, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 67.0, "mq2": 266, "mq7": 1, "mq135": 1}
+{"temperature": 32.3, "humidity": 67.0, "mq2": 265, "mq7": 1, "mq135": 1}
+{"temperature": 32.6, "humidity": 67.0, "mq2": 265, "mq7": 1, "mq135": 1}
+{"temperature": 32.8, "humidity": 67.0, "mq2": 264, "mq7": 1, "mq135": 1}
+{"temperature": 32.8, "humidity": 67.0, "mq2": 264, "mq7": 1, "mq135": 1}
+{"temperature": 32.8, "humidity": 67.0, "mq2": 262, "mq7": 1, "mq135": 1}
+{"temperature": 32.8, "humidity": 67.0, "mq2": 262, "mq7": 1, "mq135": 1}
+{"temperature": 32.8, "humidity": 67.0, "mq2": 261, "mq7": 1, "mq135": 1}
+{"temperature": 32.8, "humidity": 67.0, "mq2": 261, "mq7": 1, "mq135": 1}
+{"temperature": 32.8, "humidity": 67.0, "mq2": 260, "mq7": 1, "mq135": 1}
+{"temperature": 32.8, "humidity": 67.0, "mq2": 260, "mq7": 1, "mq135": 1}
+{"temperature": 32.8, "humidity": 67.0, "mq2": 252, "mq7": 1, "mq135": 1}
+{"temperature": 32.8, "humidity": 67.0, "mq2": 250, "mq7": 1, "mq135": 1}
+{"temperature": 33.8, "humidity": 66.0, "mq2": 217, "mq7": 217, "mq135": 209}
+{"temperature": 33.8, "humidity": 66.0, "mq2": 208, "mq7": 209, "mq135": 217}
+{"temperature": 33.8, "humidity": 66.0, "mq2": 217, "mq7": 208, "mq135": 209}
+{"temperature": 33.8, "humidity": 66.0, "mq2": 205, "mq7": 205, "mq135": 205}
+{"temperature": 34.2, "humidity": 65.0, "mq2": 205, "mq7": 213, "mq135": 213}
+{"temperature": 34.2, "humidity": 65.0, "mq2": 213, "mq7": 213, "mq135": 205}
+{"temperature": 34.2, "humidity": 65.0, "mq2": 212, "mq7": 212, "mq135": 211}
+{"temperature": 34.2, "humidity": 65.0, "mq2": 211, "mq7": 211, "mq135": 211}
+{"temperature": 34.2, "humidity": 65.0, "mq2": 211, "mq7": 211, "mq135": 211}
+{"temperature": 34.2, "humidity": 64.0, "mq2": 210, "mq7": 210, "mq135": 210}
+{"temperature": 34.2, "humidity": 64.0, "mq2": 210, "mq7": 210, "mq135": 210}
+{"temperature": 34.7, "humidity": 64.0, "mq2": 210, "mq7": 210, "mq135": 210}
+{"temperature": 34.7, "humidity": 64.0, "mq2": 210, "mq7": 210, "mq135": 209}
+{"temperature": 34.7, "humidity": 64.0, "mq2": 209, "mq7": 209, "mq135": 209}
+{"temperature": 34.7, "humidity": 64.0, "mq2": 209, "mq7": 209, "mq135": 209}
+{"temperature": 34.7, "humidity": 64.0, "mq2": 209, "mq7": 209, "mq135": 200}
+{"temperature": 34.7, "humidity": 63.0, "mq2": 209, "mq7": 209, "mq135": 208}
+{"temperature": 34.7, "humidity": 63.0, "mq2": 208, "mq7": 208, "mq135": 208}
+{"temperature": 34.7, "humidity": 63.0, "mq2": 208, "mq7": 208, "mq135": 208}
+{"temperature": 34.7, "humidity": 63.0, "mq2": 208, "mq7": 208, "mq135": 207}
+{"temperature": 34.7, "humidity": 63.0, "mq2": 207, "mq7": 207, "mq135": 207}
+{"temperature": 34.7, "humidity": 63.0, "mq2": 207, "mq7": 198, "mq135": 207}
+{"temperature": 34.7, "humidity": 63.0, "mq2": 207, "mq7": 207, "mq135": 207}
+{"temperature": 34.7, "humidity": 63.0, "mq2": 207, "mq7": 207, "mq135": 207}
+{"temperature": 34.7, "humidity": 63.0, "mq2": 207, "mq7": 207, "mq135": 207}
+{"temperature": 34.7, "humidity": 63.0, "mq2": 207, "mq7": 206, "mq135": 206}
+{"temperature": 34.7, "humidity": 63.0, "mq2": 206, "mq7": 206, "mq135": 206}
+{"temperature": 34.7, "humidity": 63.0, "mq2": 206, "mq7": 207, "mq135": 208}
+{"temperature": 35.1, "humidity": 62.0, "mq2": 209, "mq7": 211, "mq135": 214}
+{"temperature": 35.2, "humidity": 61.0, "mq2": 217, "mq7": 218, "mq135": 219}
+{"temperature": 35.2, "humidity": 61.0, "mq2": 218, "mq7": 219, "mq135": 218}
+{"temperature": 35.2, "humidity": 61.0, "mq2": 218, "mq7": 209, "mq135": 217}
+{"temperature": 35.2, "humidity": 61.0, "mq2": 217, "mq7": 217, "mq135": 216}
+{"temperature": 35.2, "humidity": 61.0, "mq2": 216, "mq7": 216, "mq135": 216}
+{"temperature": 35.2, "humidity": 61.0, "mq2": 200, "mq7": 200, "mq135": 199}
+{"temperature": 35.2, "humidity": 61.0, "mq2": 200, "mq7": 209, "mq135": 209}
+{"temperature": 35.2, "humidity": 61.0, "mq2": 208, "mq7": 208, "mq135": 207}
+{"temperature": 35.2, "humidity": 61.0, "mq2": 206, "mq7": 207, "mq135": 208}
+{"temperature": 35.2, "humidity": 61.0, "mq2": 206, "mq7": 208, "mq135": 208}
+{"temperature": 35.2, "humidity": 61.0, "mq2": 208, "mq7": 208, "mq135": 208}
+{"temperature": 35.2, "humidity": 61.0, "mq2": 208, "mq7": 208, "mq135": 207}
+{"temperature": 35.2, "humidity": 61.0, "mq2": 207, "mq7": 207, "mq135": 205}
+{"temperature": 35.2, "humidity": 61.0, "mq2": 203, "mq7": 206, "mq135": 207}
+{"temperature": 35.2, "humidity": 61.0, "mq2": 207, "mq7": 207, "mq135": 206}
+{"temperature": 35.2, "humidity": 61.0, "mq2": 206, "mq7": 206, "mq135": 206}
+{"temperature": 35.2, "humidity": 61.0, "mq2": 206, "mq7": 205, "mq135": 205}
+{"temperature": 35.2, "humidity": 61.0, "mq2": 205, "mq7": 204, "mq135": 204}
+{"temperature": 35.2, "humidity": 61.0, "mq2": 201, "mq7": 204, "mq135": 204}
+{"temperature": 35.2, "humidity": 61.0, "mq2": 204, "mq7": 205, "mq135": 204}
+{"temperature": 35.2, "humidity": 61.0, "mq2": 204, "mq7": 204, "mq135": 204}
+{"temperature": 35.2, "humidity": 61.0, "mq2": 204, "mq7": 204, "mq135": 204}
+{"temperature": 35.2, "humidity": 61.0, "mq2": 204, "mq7": 204, "mq135": 203}
+{"temperature": 35.2, "humidity": 61.0, "mq2": 199, "mq7": 203, "mq135": 203}
+{"temperature": 35.2, "humidity": 61.0, "mq2": 203, "mq7": 204, "mq135": 204}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 203, "mq7": 203, "mq135": 203}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 192, "mq7": 192, "mq135": 192}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 200, "mq7": 198, "mq135": 201}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 199, "mq7": 201, "mq135": 201}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 201, "mq7": 201, "mq135": 201}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 201, "mq7": 201, "mq135": 200}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 197, "mq7": 201, "mq135": 200}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 200, "mq7": 200, "mq135": 200}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 200, "mq7": 200, "mq135": 198}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 198, "mq7": 199, "mq135": 199}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 200, "mq7": 200, "mq135": 200}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 200, "mq7": 200, "mq135": 198}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 200, "mq7": 200, "mq135": 198}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 200, "mq7": 199, "mq135": 195}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 198, "mq7": 197, "mq135": 197}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 199, "mq7": 199, "mq135": 197}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 199, "mq7": 198, "mq135": 194}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 199, "mq7": 199, "mq135": 195}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 198, "mq7": 199, "mq135": 198}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 196, "mq7": 196, "mq135": 198}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 198, "mq7": 198, "mq135": 197}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 198, "mq7": 198, "mq135": 198}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 198, "mq7": 194, "mq135": 196}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 197, "mq7": 198, "mq135": 198}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 198, "mq7": 198, "mq135": 197}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 197, "mq7": 198, "mq135": 195}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 197, "mq7": 198, "mq135": 198}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 196, "mq7": 198, "mq135": 198}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 196, "mq7": 197, "mq135": 197}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 187, "mq7": 188, "mq135": 187}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 197, "mq7": 197, "mq135": 197}
+{"temperature": 35.2, "humidity": 61.0, "mq2": 197, "mq7": 198, "mq135": 196}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 197, "mq7": 197, "mq135": 196}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 196, "mq7": 197, "mq135": 195}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 196, "mq7": 196, "mq135": 194}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 197, "mq7": 197, "mq135": 196}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 197, "mq7": 197, "mq135": 196}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 197, "mq7": 197, "mq135": 196}
+{"temperature": 35.2, "humidity": 61.0, "mq2": 196, "mq7": 195, "mq135": 197}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 196, "mq7": 195, "mq135": 196}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 196, "mq7": 194, "mq135": 195}
+{"temperature": 35.2, "humidity": 60.0, "mq2": 184, "mq7": 194, "mq135": 192}
+{"temperature": 35.6, "humidity": 59.0, "mq2": 193, "mq7": 193, "mq135": 193}
+{"temperature": 36.3, "humidity": 58.0, "mq2": 193, "mq7": 194, "mq135": 193}
+{"temperature": 36.9, "humidity": 57.0, "mq2": 193, "mq7": 192, "mq135": 195}
+{"temperature": 37.4, "humidity": 57.0, "mq2": 191, "mq7": 193, "mq135": 192}
+{"temperature": 37.4, "humidity": 56.0, "mq2": 222, "mq7": 229, "mq135": 227}
+{"temperature": 38.0, "humidity": 55.0, "mq2": 224, "mq7": 221, "mq135": 224}
+{"temperature": 38.0, "humidity": 55.0, "mq2": 223, "mq7": 222, "mq135": 221}
+{"temperature": 38.0, "humidity": 54.0, "mq2": 220, "mq7": 222, "mq135": 222}
+{"temperature": 38.0, "humidity": 55.0, "mq2": 218, "mq7": 220, "mq135": 220}
+{"temperature": 38.0, "humidity": 54.0, "mq2": 217, "mq7": 217, "mq135": 217}
+{"temperature": 38.0, "humidity": 54.0, "mq2": 215, "mq7": 215, "mq135": 214}
+{"temperature": 37.4, "humidity": 57.0, "mq2": 214, "mq7": 213, "mq135": 212}
+{"temperature": 37.4, "humidity": 56.0, "mq2": 229, "mq7": 227, "mq135": 227}
+{"temperature": 38.0, "humidity": 55.0, "mq2": 221, "mq7": 220, "mq135": 215}
+{"temperature": 38.0, "humidity": 54.0, "mq2": 211, "mq7": 209, "mq135": 207}
+{"temperature": 38.5, "humidity": 54.0, "mq2": 206, "mq7": 206, "mq135": 204}
+{"temperature": 38.5, "humidity": 54.0, "mq2": 201, "mq7": 201, "mq135": 201}
+{"temperature": 33.3, "humidity": 63.0, "mq2": 137, "mq7": 172, "mq135": 157}
+{"temperature": 33.3, "humidity": 63.0, "mq2": 148, "mq7": 183, "mq135": 168}
+{"temperature": 33.3, "humidity": 63.0, "mq2": 148, "mq7": 183, "mq135": 168}
+{"temperature": 33.3, "humidity": 63.0, "mq2": 146, "mq7": 181, "mq135": 166}
+{"temperature": 33.8, "humidity": 63.0, "mq2": 146, "mq7": 181, "mq135": 166}
+{"temperature": 33.8, "humidity": 63.0, "mq2": 137, "mq7": 172, "mq135": 157}
+{"temperature": 33.8, "humidity": 63.0, "mq2": 128, "mq7": 163, "mq135": 148}
+{"temperature": 33.8, "humidity": 62.0, "mq2": 141, "mq7": 176, "mq135": 161}
+{"temperature": 33.8, "humidity": 62.0, "mq2": 133, "mq7": 168, "mq135": 153}
+{"temperature": 33.8, "humidity": 62.0, "mq2": 144, "mq7": 179, "mq135": 164}
+{"temperature": 33.3, "humidity": 62.0, "mq2": 146, "mq7": 181, "mq135": 166}
+{"temperature": 33.3, "humidity": 62.0, "mq2": 138, "mq7": 173, "mq135": 158}
+{"temperature": 33.3, "humidity": 62.0, "mq2": 148, "mq7": 183, "mq135": 168}
+{"temperature": 33.3, "humidity": 63.0, "mq2": 148, "mq7": 183, "mq135": 168}
+{"temperature": 33.3, "humidity": 63.0, "mq2": 149, "mq7": 184, "mq135": 169}
+{"temperature": 33.3, "humidity": 63.0, "mq2": 150, "mq7": 185, "mq135": 170}
+{"temperature": 32.8, "humidity": 64.0, "mq2": 150, "mq7": 185, "mq135": 170}
+{"temperature": 32.8, "humidity": 64.0, "mq2": 150, "mq7": 185, "mq135": 170}
+{"temperature": 32.8, "humidity": 64.0, "mq2": 150, "mq7": 185, "mq135": 170}
+{"temperature": 32.8, "humidity": 64.0, "mq2": 150, "mq7": 185, "mq135": 170}
+{"temperature": 32.8, "humidity": 65.0, "mq2": 151, "mq7": 186, "mq135": 171}
+{"temperature": 32.8, "humidity": 65.0, "mq2": 151, "mq7": 186, "mq135": 171}
+{"temperature": 32.8, "humidity": 65.0, "mq2": 152, "mq7": 187, "mq135": 172}
+{"temperature": 32.8, "humidity": 65.0, "mq2": 151, "mq7": 186, "mq135": 171}
+{"temperature": 32.3, "humidity": 65.0, "mq2": 152, "mq7": 187, "mq135": 172}
+{"temperature": 32.3, "humidity": 65.0, "mq2": 161, "mq7": 196, "mq135": 181}
+{"temperature": 31.8, "humidity": 66.0, "mq2": 160, "mq7": 195, "mq135": 180}
+{"temperature": 31.8, "humidity": 66.0, "mq2": 172, "mq7": 207, "mq135": 192}
+{"temperature": 31.8, "humidity": 66.0, "mq2": 168, "mq7": 203, "mq135": 188}
+{"temperature": 31.8, "humidity": 66.0, "mq2": 172, "mq7": 207, "mq135": 192}
+{"temperature": 31.8, "humidity": 66.0, "mq2": 172, "mq7": 207, "mq135": 192}
+{"temperature": 31.8, "humidity": 66.0, "mq2": 172, "mq7": 207, "mq135": 192}
+{"temperature": 31.8, "humidity": 66.0, "mq2": 169, "mq7": 204, "mq135": 189}
+{"temperature": 31.8, "humidity": 65.0, "mq2": 165, "mq7": 200, "mq135": 185}
+{"temperature": 31.8, "humidity": 66.0, "mq2": 163, "mq7": 198, "mq135": 183}
+{"temperature": 31.8, "humidity": 66.0, "mq2": 163, "mq7": 198, "mq135": 183}
+{"location": "Hostel", "temperature": 31.3, "humidity": 58.0, "mq2": 486, "mq7": 521, "mq135": 506}
+{"location": "Hostel", "temperature": 32.3, "humidity": 57.0, "mq2": 521, "mq7": 556, "mq135": 541}
+{"location": "Hostel", "temperature": 32.3, "humidity": 57.0, "mq2": 525, "mq7": 560, "mq135": 545}
+{"location": "Hostel", "temperature": 32.3, "humidity": 57.0, "mq2": 444, "mq7": 479, "mq135": 464}
+{"location": "Hostel", "temperature": 32.3, "humidity": 57.0, "mq2": 437, "mq7": 472, "mq135": 457}
+{"location": "Hostel", "temperature": 32.3, "humidity": 56.0, "mq2": 488, "mq7": 523, "mq135": 508}
+{"location": "Hostel", "temperature": 32.3, "humidity": 56.0, "mq2": 549, "mq7": 584, "mq135": 569}
+{"location": "AB1", "temperature": 32.3, "humidity": 56.0, "mq2": 570, "mq7": 605, "mq135": 590}
+{"location": "AB1", "temperature": 32.3, "humidity": 57.0, "mq2": 578, "mq7": 613, "mq135": 598}
+{"location": "AB1", "temperature": 32.3, "humidity": 56.0, "mq2": 577, "mq7": 612, "mq135": 597}
+{"location": "AB1", "temperature": 32.4, "humidity": 56.0, "mq2": 574, "mq7": 609, "mq135": 594}
+{"location": "AB1", "temperature": 32.8, "humidity": 56.0, "mq2": 570, "mq7": 605, "mq135": 590}
+{"location": "AB1", "temperature": 32.8, "humidity": 56.0, "mq2": 566, "mq7": 601, "mq135": 586}
+{"location": "AB1", "temperature": 32.8, "humidity": 56.0, "mq2": 560, "mq7": 595, "mq135": 580}
+{"location": "AB1", "temperature": 32.8, "humidity": 56.0, "mq2": 557, "mq7": 592, "mq135": 577}
+{"location": "AB1", "temperature": 32.8, "humidity": 56.0, "mq2": 550, "mq7": 585, "mq135": 570}
+{"location": "AB1", "temperature": 32.8, "humidity": 56.0, "mq2": 547, "mq7": 582, "mq135": 567}
+{"location": "AB1", "temperature": 32.8, "humidity": 56.0, "mq2": 544, "mq7": 579, "mq135": 564}
+{"location": "AB1", "temperature": 32.8, "humidity": 56.0, "mq2": 514, "mq7": 549, "mq135": 534}
+{"location": "AB1", "temperature": 32.8, "humidity": 56.0, "mq2": 514, "mq7": 549, "mq135": 534}
+{"location": "AB1", "temperature": 32.8, "humidity": 56.0, "mq2": 513, "mq7": 548, "mq135": 533}
+{"location": "AB1", "temperature": 32.8, "humidity": 56.0, "mq2": 524, "mq7": 559, "mq135": 544}
+{"location": "AB1", "temperature": 32.8, "humidity": 56.0, "mq2": 523, "mq7": 558, "mq135": 543}
+{"location": "AB1", "temperature": 32.8, "humidity": 56.0, "mq2": 526, "mq7": 561, "mq135": 546}
+{"location": "AB1", "temperature": 32.8, "humidity": 56.0, "mq2": 552, "mq7": 587, "mq135": 572}
+{"location": "AB1", "temperature": 31.3, "humidity": 58.0, "mq2": 535, "mq7": 570, "mq135": 555}
+{"location": "AB1", "temperature": 31.3, "humidity": 58.0, "mq2": 553, "mq7": 588, "mq135": 573}
+{"location": "AB1", "temperature": 31.3, "humidity": 58.0, "mq2": 525, "mq7": 560, "mq135": 545}
+{"location": "AB1", "temperature": 31.8, "humidity": 58.0, "mq2": 544, "mq7": 579, "mq135": 564}
+{"location": "AB1", "temperature": 31.8, "humidity": 57.0, "mq2": 540, "mq7": 575, "mq135": 560}
+{"location": "AB1", "temperature": 32.3, "humidity": 57.0, "mq2": 532, "mq7": 567, "mq135": 552}
+{"location": "AB1", "temperature": 32.3, "humidity": 57.0, "mq2": 525, "mq7": 560, "mq135": 545}
+{"location": "AB1", "temperature": 32.8, "humidity": 56.0, "mq2": 521, "mq7": 556, "mq135": 541}
+{"location": "AB1", "temperature": 32.8, "humidity": 56.0, "mq2": 496, "mq7": 531, "mq135": 516}
+{"location": "AB1", "temperature": 32.8, "humidity": 56.0, "mq2": 501, "mq7": 536, "mq135": 521}
+{"location": "AB1", "temperature": 33.3, "humidity": 55.0, "mq2": 496, "mq7": 531, "mq135": 516}
+{"location": "AB1", "temperature": 33.3, "humidity": 54.0, "mq2": 486, "mq7": 521, "mq135": 506}
+{"location": "AB1", "temperature": 33.3, "humidity": 54.0, "mq2": 482, "mq7": 517, "mq135": 502}
+{"location": "AB1", "temperature": 33.8, "humidity": 54.0, "mq2": 475, "mq7": 510, "mq135": 495}
+{"location": "AB1", "temperature": 33.8, "humidity": 54.0, "mq2": 468, "mq7": 503, "mq135": 488}
+{"location": "A Block", "temperature": 34.2, "humidity": 53.0, "mq2": 460, "mq7": 495, "mq135": 480}
+{"location": "A Block", "temperature": 34.2, "humidity": 53.0, "mq2": 468, "mq7": 503, "mq135": 488}
+{"location": "A Block", "temperature": 34.2, "humidity": 53.0, "mq2": 460, "mq7": 495, "mq135": 480}
+{"location": "A Block", "temperature": 34.2, "humidity": 53.0, "mq2": 455, "mq7": 490, "mq135": 475}
+{"location": "A Block", "temperature": 34.2, "humidity": 53.0, "mq2": 440, "mq7": 475, "mq135": 460}
+{"location": "A Block", "temperature": 34.2, "humidity": 53.0, "mq2": 429, "mq7": 464, "mq135": 449}
+{"location": "A Block", "temperature": 34.2, "humidity": 53.0, "mq2": 437, "mq7": 472, "mq135": 457}
+{"location": "A Block", "temperature": 34.2, "humidity": 52.0, "mq2": 419, "mq7": 454, "mq135": 439}
+{"location": "A Block", "temperature": 34.2, "humidity": 58.0, "mq2": 427, "mq7": 462, "mq135": 447}
+{"location": "A Block", "temperature": 37.4, "humidity": 77.0, "mq2": 400, "mq7": 435, "mq135": 420}
+{"location": "A Block", "temperature": 36.3, "humidity": 70.0, "mq2": 422, "mq7": 457, "mq135": 442}
+{"location": "A Block", "temperature": 35.2, "humidity": 60.0, "mq2": 418, "mq7": 453, "mq135": 438}
+{"location": "A Block", "temperature": 35.2, "humidity": 55.0, "mq2": 426, "mq7": 461, "mq135": 446}
+{"location": "A Block", "temperature": 34.7, "humidity": 54.0, "mq2": 428, "mq7": 463, "mq135": 448}
+{"location": "A Block", "temperature": 34.7, "humidity": 53.0, "mq2": 424, "mq7": 459, "mq135": 444}
+{"location": "A Block", "temperature": 35.2, "humidity": 52.0, "mq2": 419, "mq7": 454, "mq135": 439}
+{"location": "A Block", "temperature": 35.2, "humidity": 51.0, "mq2": 418, "mq7": 453, "mq135": 438}
+{"location": "A Block", "temperature": 35.2, "humidity": 51.0, "mq2": 402, "mq7": 437, "mq135": 422}
+{"location": "A Block", "temperature": 35.2, "humidity": 51.0, "mq2": 397, "mq7": 432, "mq135": 417}
+{"location": "A Block", "temperature": 35.2, "humidity": 51.0, "mq2": 397, "mq7": 432, "mq135": 417}
+{"location": "A Block", "temperature": 35.2, "humidity": 51.0, "mq2": 400, "mq7": 435, "mq135": 420}
+{"location": "A Block", "temperature": 35.2, "humidity": 50.0, "mq2": 403, "mq7": 438, "mq135": 423}
+{"location": "A Block", "temperature": 34.7, "humidity": 52.0, "mq2": 397, "mq7": 432, "mq135": 417}
+{"location": "A Block", "temperature": 34.7, "humidity": 51.0, "mq2": 413, "mq7": 448, "mq135": 433}
+{"location": "A Block", "temperature": 34.7, "humidity": 52.0, "mq2": 389, "mq7": 424, "mq135": 409}
+{"location": "A Block", "temperature": 34.2, "humidity": 52.0, "mq2": 403, "mq7": 438, "mq135": 423}
+{"location": "A Block", "temperature": 34.2, "humidity": 53.0, "mq2": 394, "mq7": 429, "mq135": 414}
+{"location": "A Block", "temperature": 34.3, "humidity": 53.0, "mq2": 409, "mq7": 444, "mq135": 429}
+{"location": "A Block", "temperature": 34.7, "humidity": 53.0, "mq2": 368, "mq7": 403, "mq135": 388}
+{"location": "A Block", "temperature": 34.7, "humidity": 53.0, "mq2": 368, "mq7": 403, "mq135": 388}
+{"location": "A Block", "temperature": 34.7, "humidity": 53.0, "mq2": 372, "mq7": 407, "mq135": 392}
+{"location": "A Block", "temperature": 34.7, "humidity": 53.0, "mq2": 360, "mq7": 395, "mq135": 380}
+{"location": "A Block", "temperature": 34.9, "humidity": 52.0, "mq2": 371, "mq7": 406, "mq135": 391}
+{"location": "A Block", "temperature": 35.2, "humidity": 51.0, "mq2": 369, "mq7": 404, "mq135": 389}
+{"location": "A Block", "temperature": 35.2, "humidity": 51.0, "mq2": 347, "mq7": 382, "mq135": 367}
+{"location": "AB3 Backside", "temperature": 36.3, "humidity": 50.0, "mq2": 467, "mq7": 502, "mq135": 487}
+{"location": "AB3 Backside", "temperature": 36.9, "humidity": 51.0, "mq2": 428, "mq7": 463, "mq135": 448}
+{"location": "AB3 Backside", "temperature": 36.9, "humidity": 50.0, "mq2": 409, "mq7": 444, "mq135": 429}
+{"location": "AB3 Backside", "temperature": 37.4, "humidity": 50.0, "mq2": 436, "mq7": 471, "mq135": 456}
+{"location": "AB3 Backside", "temperature": 37.4, "humidity": 50.0, "mq2": 439, "mq7": 474, "mq135": 459}
+{"location": "AB3 Backside", "temperature": 38.0, "humidity": 49.0, "mq2": 430, "mq7": 465, "mq135": 450}
+{"location": "AB3 Backside", "temperature": 38.0, "humidity": 48.0, "mq2": 413, "mq7": 448, "mq135": 433}
+{"location": "AB3 Backside", "temperature": 38.0, "humidity": 48.0, "mq2": 347, "mq7": 382, "mq135": 367}
+{"location": "AB3 Backside", "temperature": 37.4, "humidity": 50.0, "mq2": 393, "mq7": 428, "mq135": 413}
+{"location": "AB3 Backside", "temperature": 37.0, "humidity": 50.0, "mq2": 407, "mq7": 442, "mq135": 427}
+{"location": "Campus Gate", "temperature": 35.6, "humidity": 54.0, "mq2": 381, "mq7": 416, "mq135": 401}
+{"location": "Campus Gate", "temperature": 37.4, "humidity": 51.0, "mq2": 382, "mq7": 417, "mq135": 402}
+{"location": "Campus Gate", "temperature": 38.5, "humidity": 51.0, "mq2": 379, "mq7": 414, "mq135": 399}
+{"location": "Campus Gate", "temperature": 39.0, "humidity": 49.0, "mq2": 356, "mq7": 391, "mq135": 376}
+{"location": "Campus Gate", "temperature": 39.0, "humidity": 46.0, "mq2": 345, "mq7": 380, "mq135": 365}
+{"location": "Campus Gate", "temperature": 39.0, "humidity": 47.0, "mq2": 346, "mq7": 381, "mq135": 366}
+{"location": "Campus Gate", "temperature": 38.5, "humidity": 47.0, "mq2": 340, "mq7": 375, "mq135": 360}
+{"location": "Campus Gate", "temperature": 39.0, "humidity": 47.0, "mq2": 335, "mq7": 370, "mq135": 355}
+{"location": "Campus Gate", "temperature": 39.5, "humidity": 47.0, "mq2": 333, "mq7": 368, "mq135": 353}
+{"location": "Campus Gate", "temperature": 40.1, "humidity": 45.0, "mq2": 328, "mq7": 363, "mq135": 348}
+{"location": "Campus Gate", "temperature": 40.6, "humidity": 44.0, "mq2": 324, "mq7": 359, "mq135": 344}
+{"location": "A block", "temperature": 31.3, "humidity": 61.0, "mq2": 330, "mq7": 365, "mq135": 350}
+{"location": "A block", "temperature": 31.8, "humidity": 61.0, "mq2": 334, "mq7": 369, "mq135": 354}
+{"location": "A block", "temperature": 31.8, "humidity": 61.0, "mq2": 331, "mq7": 366, "mq135": 351}
+{"location": "A block", "temperature": 31.8, "humidity": 61.0, "mq2": 316, "mq7": 351, "mq135": 336}
+{"location": "A block", "temperature": 32.3, "humidity": 62.0, "mq2": 309, "mq7": 344, "mq135": 329}
+{"location": "A block", "temperature": 32.8, "humidity": 61.0, "mq2": 308, "mq7": 343, "mq135": 328}
+{"location": "A block", "temperature": 32.8, "humidity": 61.0, "mq2": 306, "mq7": 341, "mq135": 326}
+{"location": "A block", "temperature": 32.8, "humidity": 60.0, "mq2": 302, "mq7": 337, "mq135": 322}
+{"location": "A block", "temperature": 32.8, "humidity": 60.0, "mq2": 299, "mq7": 334, "mq135": 319}
+{"location": "A block", "temperature": 32.8, "humidity": 59.0, "mq2": 296, "mq7": 331, "mq135": 316}
+{"location": "A block", "temperature": 32.3, "humidity": 59.0, "mq2": 281, "mq7": 316, "mq135": 301}
+{"location": "A block", "temperature": 32.3, "humidity": 60.0, "mq2": 307, "mq7": 342, "mq135": 327}
+{"location": "A block", "temperature": 32.3, "humidity": 60.0, "mq2": 282, "mq7": 317, "mq135": 302}
+{"location": "A block", "temperature": 32.8, "humidity": 59.0, "mq2": 288, "mq7": 323, "mq135": 308}
+{"location": "A block", "temperature": 32.8, "humidity": 59.0, "mq2": 287, "mq7": 322, "mq135": 307}
+{"location": "A block", "temperature": 32.8, "humidity": 59.0, "mq2": 283, "mq7": 318, "mq135": 303}
+{"location": "A block", "temperature": 32.8, "humidity": 59.0, "mq2": 283, "mq7": 318, "mq135": 303}
+{"location": "A block", "temperature": 33.3, "humidity": 57.0, "mq2": 282, "mq7": 317, "mq135": 302}
+{"location": "A block", "temperature": 33.3, "humidity": 57.0, "mq2": 281, "mq7": 316, "mq135": 301}
+{"location": "A block", "temperature": 33.3, "humidity": 57.0, "mq2": 290, "mq7": 325, "mq135": 310}
+{"location": "A block", "temperature": 33.3, "humidity": 56.0, "mq2": 296, "mq7": 331, "mq135": 316}
+{"location": "A block", "temperature": 33.8, "humidity": 56.0, "mq2": 306, "mq7": 341, "mq135": 326}
+{"location": "A block", "temperature": 33.8, "humidity": 56.0, "mq2": 306, "mq7": 341, "mq135": 326}
+{"location": "A block", "temperature": 33.8, "humidity": 56.0, "mq2": 302, "mq7": 337, "mq135": 322}
+{"location": "A block", "temperature": 34.2, "humidity": 56.0, "mq2": 295, "mq7": 330, "mq135": 315}
+{"location": "A block", "temperature": 34.2, "humidity": 55.0, "mq2": 300, "mq7": 335, "mq135": 320}
+{"location": "A block", "temperature": 34.2, "humidity": 55.0, "mq2": 306, "mq7": 341, "mq135": 326}
+{"location": "A block", "temperature": 34.2, "humidity": 55.0, "mq2": 304, "mq7": 339, "mq135": 324}
+{"location": "A block", "temperature": 34.2, "humidity": 55.0, "mq2": 305, "mq7": 340, "mq135": 325}
+{"location": "A block", "temperature": 34.7, "humidity": 55.0, "mq2": 297, "mq7": 332, "mq135": 317}
+{"location": "A block", "temperature": 34.7, "humidity": 54.0, "mq2": 296, "mq7": 331, "mq135": 316}
+{"location": "A block", "temperature": 34.7, "humidity": 54.0, "mq2": 290, "mq7": 325, "mq135": 310}
+{"location": "A block", "temperature": 34.7, "humidity": 54.0, "mq2": 288, "mq7": 323, "mq135": 308}
+{"location": "A block", "temperature": 34.7, "humidity": 55.0, "mq2": 287, "mq7": 322, "mq135": 307}
+{"location": "A block", "temperature": 34.7, "humidity": 55.0, "mq2": 282, "mq7": 317, "mq135": 302}
+{"location": "A block", "temperature": 34.7, "humidity": 55.0, "mq2": 273, "mq7": 308, "mq135": 293}
+{"location": "A block", "temperature": 34.7, "humidity": 54.0, "mq2": 268, "mq7": 303, "mq135": 288}
+{"location": "A block", "temperature": 34.2, "humidity": 54.0, "mq2": 274, "mq7": 309, "mq135": 294}
+{"location": "A block", "temperature": 34.2, "humidity": 54.0, "mq2": 277, "mq7": 312, "mq135": 297}
+{"location": "A block", "temperature": 34.2, "humidity": 54.0, "mq2": 271, "mq7": 306, "mq135": 291}
+{"location": "A block", "temperature": 33.8, "humidity": 54.0, "mq2": 281, "mq7": 316, "mq135": 301}
+{"location": "A block", "temperature": 33.8, "humidity": 55.0, "mq2": 282, "mq7": 317, "mq135": 302}
+{"location": "A block", "temperature": 33.8, "humidity": 55.0, "mq2": 288, "mq7": 323, "mq135": 308}
+{"location": "A block", "temperature": 33.8, "humidity": 55.0, "mq2": 299, "mq7": 334, "mq135": 319}
+{"location": "A block", "temperature": 33.8, "humidity": 55.0, "mq2": 282, "mq7": 317, "mq135": 302}
+{"location": "A block", "temperature": 33.8, "humidity": 55.0, "mq2": 273, "mq7": 308, "mq135": 293}
+{"location": "A block", "temperature": 33.8, "humidity": 55.0, "mq2": 286, "mq7": 321, "mq135": 306}
+{"location": "A block", "temperature": 33.3, "humidity": 55.0, "mq2": 271, "mq7": 306, "mq135": 291}
+{"location": "A block", "temperature": 33.3, "humidity": 55.0, "mq2": 271, "mq7": 306, "mq135": 291}
+{"location": "A block", "temperature": 33.3, "humidity": 56.0, "mq2": 270, "mq7": 305, "mq135": 290}
+{"location": "A block", "temperature": 33.3, "humidity": 56.0, "mq2": 262, "mq7": 297, "mq135": 282}
+{"location": "A block", "temperature": 33.3, "humidity": 56.0, "mq2": 271, "mq7": 306, "mq135": 291}
+{"location": "A block", "temperature": 32.8, "humidity": 57.0, "mq2": 268, "mq7": 303, "mq135": 288}
+{"location": "A block", "temperature": 32.8, "humidity": 57.0, "mq2": 266, "mq7": 301, "mq135": 286}
+{"location": "A block", "temperature": 32.8, "humidity": 57.0, "mq2": 290, "mq7": 325, "mq135": 310}
+{"location": "A block", "temperature": 32.8, "humidity": 57.0, "mq2": 277, "mq7": 312, "mq135": 297}
+{"location": "A block", "temperature": 32.8, "humidity": 58.0, "mq2": 295, "mq7": 330, "mq135": 315}
+{"location": "A block", "temperature": 33.3, "humidity": 57.0, "mq2": 295, "mq7": 330, "mq135": 315}
+{"location": "A block", "temperature": 33.3, "humidity": 56.0, "mq2": 278, "mq7": 313, "mq135": 298}
+{"location": "A block", "temperature": 33.3, "humidity": 56.0, "mq2": 288, "mq7": 323, "mq135": 308}
+{"location": "A block", "temperature": 33.3, "humidity": 56.0, "mq2": 296, "mq7": 331, "mq135": 316}
+{"location": "A block", "temperature": 33.3, "humidity": 56.0, "mq2": 306, "mq7": 341, "mq135": 326}
+{"location": "A block", "temperature": 33.3, "humidity": 56.0, "mq2": 297, "mq7": 332, "mq135": 317}
+{"location": "A block", "temperature": 33.3, "humidity": 56.0, "mq2": 271, "mq7": 306, "mq135": 291}
+{"location": "A block", "temperature": 33.3, "humidity": 56.0, "mq2": 273, "mq7": 308, "mq135": 293}
+{"location": "A block", "temperature": 32.8, "humidity": 57.0, "mq2": 251, "mq7": 286, "mq135": 271}
+{"location": "A block", "temperature": 32.8, "humidity": 57.0, "mq2": 296, "mq7": 331, "mq135": 316}
+{"location": "A block", "temperature": 32.8, "humidity": 57.0, "mq2": 296, "mq7": 331, "mq135": 316}
+{"location": "A block", "temperature": 32.9, "humidity": 57.0, "mq2": 293, "mq7": 328, "mq135": 313}
+{"location": "A block", "temperature": 33.3, "humidity": 56.0, "mq2": 292, "mq7": 327, "mq135": 312}
+{"location": "A block", "temperature": 33.3, "humidity": 56.0, "mq2": 290, "mq7": 325, "mq135": 310}
+{"location": "A block", "temperature": 33.8, "humidity": 56.0, "mq2": 269, "mq7": 304, "mq135": 289}
+{"location": "A block", "temperature": 33.8, "humidity": 56.0, "mq2": 268, "mq7": 303, "mq135": 288}
+{"location": "A block", "temperature": 33.9, "humidity": 55.0, "mq2": 269, "mq7": 304, "mq135": 289}
+{"location": "A block", "temperature": 34.2, "humidity": 55.0, "mq2": 269, "mq7": 304, "mq135": 289}
+{"location": "A block", "temperature": 34.2, "humidity": 55.0, "mq2": 270, "mq7": 305, "mq135": 290}
+{"location": "A block", "temperature": 34.2, "humidity": 55.0, "mq2": 271, "mq7": 306, "mq135": 291}
+{"location": "A block", "temperature": 34.7, "humidity": 54.0, "mq2": 274, "mq7": 309, "mq135": 294}
+{"location": "A block", "temperature": 34.7, "humidity": 54.0, "mq2": 274, "mq7": 309, "mq135": 294}
+{"location": "A block", "temperature": 34.7, "humidity": 54.0, "mq2": 274, "mq7": 309, "mq135": 294}
+{"location": "A block", "temperature": 34.7, "humidity": 54.0, "mq2": 274, "mq7": 309, "mq135": 294}
+{"location": "A block", "temperature": 34.7, "humidity": 54.0, "mq2": 274, "mq7": 309, "mq135": 294}
+{"location": "A block", "temperature": 35.2, "humidity": 53.0, "mq2": 274, "mq7": 309, "mq135": 294}
+{"location": "A block", "temperature": 35.2, "humidity": 53.0, "mq2": 274, "mq7": 309, "mq135": 294}
+{"location": "A block", "temperature": 35.2, "humidity": 53.0, "mq2": 274, "mq7": 309, "mq135": 294}
+{"location": "A block", "temperature": 35.2, "humidity": 52.0, "mq2": 273, "mq7": 308, "mq135": 293}
+{"location": "A block", "temperature": 35.2, "humidity": 52.0, "mq2": 272, "mq7": 307, "mq135": 292}
+{"location": "A block", "temperature": 35.2, "humidity": 52.0, "mq2": 272, "mq7": 307, "mq135": 292}
+{"location": "A block", "temperature": 35.2, "humidity": 52.0, "mq2": 271, "mq7": 306, "mq135": 291}
+{"location": "Campus Gate", "temperature": 35.6, "humidity": 51.0, "mq2": 235, "mq7": 270, "mq135": 255}
+{"location": "Campus Gate", "temperature": 35.6, "humidity": 51.0, "mq2": 238, "mq7": 273, "mq135": 258}
+{"location": "Campus Gate", "temperature": 35.6, "humidity": 51.0, "mq2": 248, "mq7": 283, "mq135": 268}
+{"location": "Campus Gate", "temperature": 35.6, "humidity": 51.0, "mq2": 247, "mq7": 282, "mq135": 267}
+{"location": "Campus Gate", "temperature": 35.9, "humidity": 51.0, "mq2": 246, "mq7": 281, "mq135": 266}
+{"location": "Campus Gate", "temperature": 36.0, "humidity": 51.0, "mq2": 229, "mq7": 264, "mq135": 249}
+{"location": "Campus Gate", "temperature": 36.3, "humidity": 51.0, "mq2": 256, "mq7": 291, "mq135": 276}
+{"location": "Campus Gate", "temperature": 36.3, "humidity": 51.0, "mq2": 239, "mq7": 274, "mq135": 259}
+{"location": "Campus Gate", "temperature": 36.3, "humidity": 51.0, "mq2": 234, "mq7": 269, "mq135": 254}
+{"location": "Campus Gate", "temperature": 36.3, "humidity": 51.0, "mq2": 229, "mq7": 264, "mq135": 249}
+{"location": "Campus Gate", "temperature": 36.3, "humidity": 51.0, "mq2": 233, "mq7": 268, "mq135": 253}
+{"location": "Campus Gate", "temperature": 36.3, "humidity": 51.0, "mq2": 235, "mq7": 270, "mq135": 255}
+{"location": "Campus Gate", "temperature": 36.3, "humidity": 51.0, "mq2": 226, "mq7": 261, "mq135": 246}
+{"location": "Campus Gate", "temperature": 36.3, "humidity": 51.0, "mq2": 245, "mq7": 280, "mq135": 265}
+{"location": "Campus Gate", "temperature": 36.3, "humidity": 50.0, "mq2": 283, "mq7": 318, "mq135": 303}
+{"location": "Campus Gate", "temperature": 36.3, "humidity": 51.0, "mq2": 269, "mq7": 304, "mq135": 289}
+{"location": "Campus Gate", "temperature": 36.3, "humidity": 51.0, "mq2": 277, "mq7": 312, "mq135": 297}
+{"location": "Campus Gate", "temperature": 36.3, "humidity": 51.0, "mq2": 273, "mq7": 308, "mq135": 293}
+{"location": "Campus Gate", "temperature": 36.3, "humidity": 50.0, "mq2": 262, "mq7": 297, "mq135": 282}
+{"location": "Campus Gate", "temperature": 36.3, "humidity": 50.0, "mq2": 271, "mq7": 306, "mq135": 291}
+{"location": "Campus Gate", "temperature": 36.3, "humidity": 51.0, "mq2": 293, "mq7": 328, "mq135": 313}
+{"location": "Campus Gate", "temperature": 36.3, "humidity": 51.0, "mq2": 292, "mq7": 327, "mq135": 312}
+{"location": "Campus Gate", "temperature": 36.3, "humidity": 51.0, "mq2": 290, "mq7": 325, "mq135": 310}
+{"location": "Campus Gate", "temperature": 36.3, "humidity": 51.0, "mq2": 290, "mq7": 325, "mq135": 310}
+{"location": "Campus Gate", "temperature": 36.3, "humidity": 51.0, "mq2": 270, "mq7": 305, "mq135": 290}
+{"location": "Campus Gate", "temperature": 36.3, "humidity": 51.0, "mq2": 275, "mq7": 310, "mq135": 295}
+{"location": "Campus Gate", "temperature": 35.6, "humidity": 51.0, "mq2": 260, "mq7": 295, "mq135": 280}
+{"location": "Campus Gate", "temperature": 35.2, "humidity": 51.0, "mq2": 258, "mq7": 293, "mq135": 278}
+{"location": "Campus Gate", "temperature": 35.2, "humidity": 51.0, "mq2": 257, "mq7": 292, "mq135": 277}
+{"location": "Campus Gate", "temperature": 34.7, "humidity": 53.0, "mq2": 247, "mq7": 282, "mq135": 267}
+{"location": "Campus Gate", "temperature": 34.7, "humidity": 53.0, "mq2": 257, "mq7": 292, "mq135": 277}
+{"location": "Campus Gate", "temperature": 34.2, "humidity": 54.0, "mq2": 244, "mq7": 279, "mq135": 264}
+{"location": "Campus Gate", "temperature": 34.2, "humidity": 54.0, "mq2": 253, "mq7": 288, "mq135": 273}
+{"location": "Campus Gate", "temperature": 34.2, "humidity": 54.0, "mq2": 273, "mq7": 308, "mq135": 293}
+{"location": "Campus Gate", "temperature": 34.2, "humidity": 54.0, "mq2": 272, "mq7": 307, "mq135": 292}
+{"location": "Campus Gate", "temperature": 34.2, "humidity": 54.0, "mq2": 268, "mq7": 303, "mq135": 288}
+{"location": "Campus Gate", "temperature": 34.2, "humidity": 54.0, "mq2": 254, "mq7": 289, "mq135": 274}
+{"location": "Campus Gate", "temperature": 33.8, "humidity": 55.0, "mq2": 261, "mq7": 296, "mq135": 281}
+{"location": "Campus Gate", "temperature": 33.8, "humidity": 55.0, "mq2": 260, "mq7": 295, "mq135": 280}
+{"location": "Campus Gate", "temperature": 33.8, "humidity": 55.0, "mq2": 258, "mq7": 293, "mq135": 278}
+{"location": "Campus Gate", "temperature": 33.8, "humidity": 55.0, "mq2": 256, "mq7": 291, "mq135": 276}
+{"location": "Campus Gate", "temperature": 33.8, "humidity": 55.0, "mq2": 256, "mq7": 291, "mq135": 276}
+{"location": "Campus Gate", "temperature": 33.8, "humidity": 55.0, "mq2": 254, "mq7": 289, "mq135": 274}
+{"location": "Campus Gate", "temperature": 33.8, "humidity": 55.0, "mq2": 253, "mq7": 288, "mq135": 273}
+{"location": "Campus Gate", "temperature": 33.8, "humidity": 55.0, "mq2": 252, "mq7": 287, "mq135": 272}
+{"location": "Campus Gate", "temperature": 33.8, "humidity": 55.0, "mq2": 241, "mq7": 276, "mq135": 261}
+{"location": "Campus Gate", "temperature": 33.8, "humidity": 55.0, "mq2": 252, "mq7": 287, "mq135": 272}
+{"location": "Campus Gate", "temperature": 33.8, "humidity": 55.0, "mq2": 253, "mq7": 288, "mq135": 273}
+{"location": "Campus Gate", "temperature": 33.8, "humidity": 55.0, "mq2": 253, "mq7": 288, "mq135": 273}
+{"location": "Campus Gate", "temperature": 33.8, "humidity": 55.0, "mq2": 254, "mq7": 289, "mq135": 274}
+{"location": "Campus Gate", "temperature": 33.8, "humidity": 55.0, "mq2": 258, "mq7": 293, "mq135": 278}
+{"location": "Campus Gate", "temperature": 34.0, "humidity": 55.0, "mq2": 258, "mq7": 293, "mq135": 278}
+{"location": "Campus Gate", "temperature": 34.2, "humidity": 55.0, "mq2": 257, "mq7": 292, "mq135": 277}
+{"location": "Campus Gate", "temperature": 34.2, "humidity": 55.0, "mq2": 258, "mq7": 293, "mq135": 278}
+{"location": "Campus Gate", "temperature": 34.2, "humidity": 55.0, "mq2": 259, "mq7": 294, "mq135": 279}
+{"location": "Campus Gate", "temperature": 34.2, "humidity": 55.0, "mq2": 260, "mq7": 295, "mq135": 280}
+{"location": "Campus Gate", "temperature": 34.2, "humidity": 55.0, "mq2": 258, "mq7": 293, "mq135": 278}
+{"location": "Campus Gate", "temperature": 34.2, "humidity": 55.0, "mq2": 258, "mq7": 293, "mq135": 278}
+{"location": "Campus Gate", "temperature": 34.2, "humidity": 55.0, "mq2": 248, "mq7": 283, "mq135": 268}
+{"location": "Campus Gate", "temperature": 34.2, "humidity": 55.0, "mq2": 257, "mq7": 292, "mq135": 277}
+{"location": "Campus Gate", "temperature": 34.2, "humidity": 55.0, "mq2": 257, "mq7": 292, "mq135": 277}
+{"location": "Campus Gate", "temperature": 34.2, "humidity": 55.0, "mq2": 256, "mq7": 291, "mq135": 276}
+{"location": "Campus Gate", "temperature": 34.2, "humidity": 55.0, "mq2": 256, "mq7": 291, "mq135": 276}
+{"location": "Campus Gate", "temperature": 34.2, "humidity": 55.0, "mq2": 256, "mq7": 291, "mq135": 276}
+{"location": "Campus Gate", "temperature": 34.2, "humidity": 55.0, "mq2": 256, "mq7": 291, "mq135": 276}
+{"location": "Campus Gate", "temperature": 34.2, "humidity": 55.0, "mq2": 254, "mq7": 289, "mq135": 274}
+{"location": "Campus Gate", "temperature": 34.2, "humidity": 55.0, "mq2": 256, "mq7": 291, "mq135": 276}
+{"location": "Campus Gate", "temperature": 34.2, "humidity": 55.0, "mq2": 258, "mq7": 293, "mq135": 278}
+{"location": "Campus Gate", "temperature": 34.2, "humidity": 55.0, "mq2": 247, "mq7": 282, "mq135": 267}
+{"location": "Campus Gate", "temperature": 34.2, "humidity": 55.0, "mq2": 257, "mq7": 292, "mq135": 277}
+{"location": "Campus Gate", "temperature": 34.2, "humidity": 55.0, "mq2": 257, "mq7": 292, "mq135": 277}
+{"location": "Campus Gate", "temperature": 34.2, "humidity": 55.0, "mq2": 257, "mq7": 292, "mq135": 277}
+{"location": "Campus Gate", "temperature": 34.2, "humidity": 55.0, "mq2": 257, "mq7": 292, "mq135": 277}
+{"location": "Campus Gate", "temperature": 34.2, "humidity": 55.0, "mq2": 248, "mq7": 283, "mq135": 268}
+{"location": "Campus Gate", "temperature": 34.2, "humidity": 55.0, "mq2": 258, "mq7": 293, "mq135": 278}
+{"location": "Campus Gate", "temperature": 34.2, "humidity": 55.0, "mq2": 260, "mq7": 295, "mq135": 280}
+{"location": "Campus Gate", "temperature": 34.2, "humidity": 55.0, "mq2": 259, "mq7": 294, "mq135": 279}
+{"location": "Campus Gate", "temperature": 34.2, "humidity": 55.0, "mq2": 249, "mq7": 284, "mq135": 269}
+{"location": "Campus Gate", "temperature": 34.2, "humidity": 55.0, "mq2": 257, "mq7": 292, "mq135": 277}
+{"location": "Campus Gate", "temperature": 34.2, "humidity": 55.0, "mq2": 257, "mq7": 292, "mq135": 277}
+{"location": "Campus Gate", "temperature": 34.2, "humidity": 55.0, "mq2": 258, "mq7": 293, "mq135": 278}
+{"location": "Campus Gate", "temperature": 34.2, "humidity": 55.0, "mq2": 258, "mq7": 293, "mq135": 278}
+{"location": "Campus Gate", "temperature": 34.2, "humidity": 55.0, "mq2": 256, "mq7": 291, "mq135": 276}
+{"location": "Campus Gate", "temperature": 34.2, "humidity": 55.0, "mq2": 252, "mq7": 287, "mq135": 272}
+{"location": "Campus Gate", "temperature": 33.8, "humidity": 55.0, "mq2": 253, "mq7": 288, "mq135": 273}
+{"location": "Campus Gate", "temperature": 33.8, "humidity": 55.0, "mq2": 262, "mq7": 297, "mq135": 282}
+{"location": "Campus Gate", "temperature": 33.8, "humidity": 55.0, "mq2": 253, "mq7": 288, "mq135": 273}
+{"location": "Campus Gate", "temperature": 33.8, "humidity": 55.0, "mq2": 260, "mq7": 295, "mq135": 280}
+{"location": "Campus Gate", "temperature": 33.8, "humidity": 55.0, "mq2": 261, "mq7": 296, "mq135": 281}
+{"location": "Campus Gate", "temperature": 33.8, "humidity": 55.0, "mq2": 253, "mq7": 288, "mq135": 273}
+{"location": "Campus Gate", "temperature": 33.8, "humidity": 55.0, "mq2": 262, "mq7": 297, "mq135": 282}
+{"location": "Campus Gate", "temperature": 32.3, "humidity": 59.0, "mq2": 227, "mq7": 262, "mq135": 247}
+{"location": "Campus Gate", "temperature": 32.3, "humidity": 59.0, "mq2": 227, "mq7": 262, "mq135": 247}
+{"location": "Campus Gate", "temperature": 32.3, "humidity": 59.0, "mq2": 226, "mq7": 261, "mq135": 246}
+{"location": "Campus Gate", "temperature": 32.3, "humidity": 59.0, "mq2": 224, "mq7": 259, "mq135": 244}
+{"location": "Campus Gate", "temperature": 32.3, "humidity": 59.0, "mq2": 221, "mq7": 256, "mq135": 241}
+{"location": "Campus Gate", "temperature": 32.3, "humidity": 59.0, "mq2": 212, "mq7": 247, "mq135": 232}
+{"location": "Campus Gate", "temperature": 32.3, "humidity": 59.0, "mq2": 220, "mq7": 255, "mq135": 240}
+{"location": "Campus Gate", "temperature": 32.3, "humidity": 59.0, "mq2": 217, "mq7": 252, "mq135": 237}
+{"location": "Campus Gate", "temperature": 32.3, "humidity": 58.0, "mq2": 216, "mq7": 251, "mq135": 236}
+{"location": "AB3", "temperature": 27.1, "humidity": 64.0, "mq2": 333, "mq7": 368, "mq135": 353}
+{"location": "AB3", "temperature": 27.1, "humidity": 64.0, "mq2": 322, "mq7": 357, "mq135": 342}
+{"location": "AB3", "temperature": 27.6, "humidity": 64.0, "mq2": 306, "mq7": 341, "mq135": 326}
+{"location": "AB3", "temperature": 27.6, "humidity": 64.0, "mq2": 297, "mq7": 332, "mq135": 317}
+{"location": "AB3", "temperature": 27.6, "humidity": 64.0, "mq2": 288, "mq7": 323, "mq135": 308}
+{"location": "AB3", "temperature": 27.6, "humidity": 64.0, "mq2": 281, "mq7": 316, "mq135": 301}
+{"location": "AB3", "temperature": 27.6, "humidity": 64.0, "mq2": 274, "mq7": 309, "mq135": 294}
+{"location": "AB3", "temperature": 27.6, "humidity": 64.0, "mq2": 261, "mq7": 296, "mq135": 281}
+{"location": "AB3", "temperature": 27.6, "humidity": 64.0, "mq2": 264, "mq7": 299, "mq135": 284}
+{"location": "AB3", "temperature": 27.6, "humidity": 64.0, "mq2": 258, "mq7": 293, "mq135": 278}
+{"location": "AB3", "temperature": 27.6, "humidity": 64.0, "mq2": 253, "mq7": 288, "mq135": 273}
+{"location": "AB3", "temperature": 27.6, "humidity": 64.0, "mq2": 252, "mq7": 287, "mq135": 272}
+{"location": "AB3", "temperature": 27.6, "humidity": 64.0, "mq2": 240, "mq7": 275, "mq135": 260}
+{"location": "AB3", "temperature": 27.6, "humidity": 64.0, "mq2": 245, "mq7": 280, "mq135": 265}
+{"location": "AB3", "temperature": 31.3, "humidity": 59.0, "mq2": 301, "mq7": 336, "mq135": 321}
+{"location": "AB3", "temperature": 31.3, "humidity": 58.0, "mq2": 306, "mq7": 341, "mq135": 326}
+{"location": "AB3", "temperature": 31.8, "humidity": 58.0, "mq2": 299, "mq7": 334, "mq135": 319}
+{"location": "AB3", "temperature": 31.8, "humidity": 58.0, "mq2": 290, "mq7": 325, "mq135": 310}
+{"location": "AB3", "temperature": 31.8, "humidity": 58.0, "mq2": 278, "mq7": 313, "mq135": 298}
+{"location": "AB3", "temperature": 31.8, "humidity": 57.0, "mq2": 286, "mq7": 321, "mq135": 306}
+{"location": "AB3", "temperature": 31.8, "humidity": 57.0, "mq2": 278, "mq7": 313, "mq135": 298}
+{"location": "AB3", "temperature": 32.3, "humidity": 58.0, "mq2": 270, "mq7": 305, "mq135": 290}
+{"location": "AB3", "temperature": 32.3, "humidity": 57.0, "mq2": 256, "mq7": 291, "mq135": 276}
+{"location": "AB3", "temperature": 29.3, "humidity": 59.0, "mq2": 259, "mq7": 294, "mq135": 279}
+{"location": "AB3", "temperature": 28.9, "humidity": 58.0, "mq2": 251, "mq7": 286, "mq135": 271}
+{"location": "AB3", "temperature": 28.9, "humidity": 58.0, "mq2": 246, "mq7": 281, "mq135": 266}
+{"location": "AB3", "temperature": 28.5, "humidity": 58.0, "mq2": 241, "mq7": 276, "mq135": 261}
+{"location": "AB3", "temperature": 28.0, "humidity": 58.0, "mq2": 237, "mq7": 272, "mq135": 257}
+{"location": "AB3", "temperature": 28.0, "humidity": 58.0, "mq2": 226, "mq7": 261, "mq135": 246}
+{"location": "AB3", "temperature": 27.6, "humidity": 60.0, "mq2": 232, "mq7": 267, "mq135": 252}
+{"location": "AB3", "temperature": 27.1, "humidity": 60.0, "mq2": 226, "mq7": 261, "mq135": 246}
+{"location": "AB3", "temperature": 27.1, "humidity": 60.0, "mq2": 224, "mq7": 259, "mq135": 244}
+{"location": "AB3", "temperature": 26.7, "humidity": 60.0, "mq2": 224, "mq7": 259, "mq135": 244}
+{"location": "AB3", "temperature": 26.7, "humidity": 65.0, "mq2": 537, "mq7": 572, "mq135": 557}
+{"location": "AB3", "temperature": 27.1, "humidity": 64.0, "mq2": 523, "mq7": 558, "mq135": 543}
+{"location": "AB3", "temperature": 27.1, "humidity": 63.0, "mq2": 502, "mq7": 537, "mq135": 522}
+{"location": "AB3", "temperature": 27.1, "humidity": 63.0, "mq2": 484, "mq7": 519, "mq135": 504}
+{"location": "AB3", "temperature": 27.1, "humidity": 63.0, "mq2": 473, "mq7": 508, "mq135": 493}
+{"location": "AB3", "temperature": 27.1, "humidity": 63.0, "mq2": 464, "mq7": 499, "mq135": 484}
+{"location": "AB3", "temperature": 27.1, "humidity": 62.0, "mq2": 439, "mq7": 474, "mq135": 459}
+{"location": "AB3", "temperature": 27.1, "humidity": 62.0, "mq2": 439, "mq7": 474, "mq135": 459}
+{"location": "AB3", "temperature": 27.1, "humidity": 62.0, "mq2": 430, "mq7": 465, "mq135": 450}
+{"location": "AB3", "temperature": 29.3, "humidity": 72.0, "mq2": 301, "mq7": 336, "mq135": 321}
+{"location": "AB3", "temperature": 29.3, "humidity": 72.0, "mq2": 233, "mq7": 268, "mq135": 253}
+{"location": "AB3", "temperature": 29.3, "humidity": 72.0, "mq2": 297, "mq7": 332, "mq135": 317}
+{"location": "AB3", "temperature": 29.3, "humidity": 72.0, "mq2": 263, "mq7": 298, "mq135": 283}
+{"location": "AB3", "temperature": 29.3, "humidity": 72.0, "mq2": 256, "mq7": 291, "mq135": 276}
+{"location": "AB3", "temperature": 29.3, "humidity": 72.0, "mq2": 288, "mq7": 323, "mq135": 308}
+{"location": "AB3", "temperature": 29.3, "humidity": 72.0, "mq2": 276, "mq7": 311, "mq135": 296}
+{"location": "AB3", "temperature": 29.3, "humidity": 71.0, "mq2": 268, "mq7": 303, "mq135": 288}
+{"location": "AB3", "temperature": 29.3, "humidity": 71.0, "mq2": 260, "mq7": 295, "mq135": 280}
+{"location": "AB3", "temperature": 29.3, "humidity": 71.0, "mq2": 254, "mq7": 289, "mq135": 274}
+{"location": "AB3", "temperature": 29.4, "humidity": 71.0, "mq2": 248, "mq7": 283, "mq135": 268}
+{"location": "AB3", "temperature": 29.3, "humidity": 71.0, "mq2": 246, "mq7": 281, "mq135": 266}
+{"location": "AB3", "temperature": 29.5, "humidity": 71.0, "mq2": 242, "mq7": 277, "mq135": 262}
+{"location": "AB3", "temperature": 29.8, "humidity": 71.0, "mq2": 239, "mq7": 274, "mq135": 259}
+{"location": "AB3", "temperature": 29.8, "humidity": 71.0, "mq2": 236, "mq7": 271, "mq135": 256}
+{"location": "AB3", "temperature": 29.8, "humidity": 71.0, "mq2": 214, "mq7": 249, "mq135": 234}
+{"location": "AB3", "temperature": 31.8, "humidity": 65.0, "mq2": 264, "mq7": 299, "mq135": 284}
+{"location": "AB3", "temperature": 31.8, "humidity": 65.0, "mq2": 261, "mq7": 296, "mq135": 281}
+{"location": "AB3", "temperature": 31.8, "humidity": 65.0, "mq2": 257, "mq7": 292, "mq135": 277}
+{"location": "AB3", "temperature": 31.8, "humidity": 65.0, "mq2": 246, "mq7": 281, "mq135": 266}
+{"location": "AB3", "temperature": 31.8, "humidity": 65.0, "mq2": 253, "mq7": 288, "mq135": 273}
+{"location": "AB3", "temperature": 31.8, "humidity": 65.0, "mq2": 252, "mq7": 287, "mq135": 272}
+{"location": "AB3", "temperature": 31.8, "humidity": 65.0, "mq2": 248, "mq7": 283, "mq135": 268}
+{"location": "AB3", "temperature": 31.8, "humidity": 65.0, "mq2": 248, "mq7": 283, "mq135": 268}
+{"location": "AB3", "temperature": 31.8, "humidity": 66.0, "mq2": 247, "mq7": 282, "mq135": 267}
+{"location": "AB3", "temperature": 31.8, "humidity": 66.0, "mq2": 247, "mq7": 282, "mq135": 267}
+{"location": "AB3", "temperature": 31.8, "humidity": 66.0, "mq2": 245, "mq7": 280, "mq135": 265}
+{"location": "AB3", "temperature": 31.8, "humidity": 66.0, "mq2": 245, "mq7": 280, "mq135": 265}
+{"location": "AB3", "temperature": 30.2, "humidity": 69.0, "mq2": 233, "mq7": 268, "mq135": 253}
+{"location": "AB3", "temperature": 30.2, "humidity": 69.0, "mq2": 234, "mq7": 269, "mq135": 254}
+{"location": "AB3", "temperature": 30.2, "humidity": 69.0, "mq2": 233, "mq7": 268, "mq135": 253}
+{"location": "AB3", "temperature": 30.2, "humidity": 69.0, "mq2": 237, "mq7": 272, "mq135": 257}
+{"location": "AB3", "temperature": 30.2, "humidity": 69.0, "mq2": 235, "mq7": 270, "mq135": 255}
+{"location": "AB3", "temperature": 30.2, "humidity": 69.0, "mq2": 225, "mq7": 260, "mq135": 245}
+{"location": "AB3", "temperature": 30.2, "humidity": 69.0, "mq2": 224, "mq7": 259, "mq135": 244}
+{"location": "AB3", "temperature": 30.2, "humidity": 69.0, "mq2": 223, "mq7": 258, "mq135": 243}
+{"location": "AB3", "temperature": 30.2, "humidity": 69.0, "mq2": 222, "mq7": 257, "mq135": 242}
+{"location": "AB3", "temperature": 30.5, "humidity": 69.0, "mq2": 222, "mq7": 257, "mq135": 242}
+{"location": "AB3", "temperature": 30.7, "humidity": 69.0, "mq2": 218, "mq7": 253, "mq135": 238}
+{"location": "AB3", "temperature": 30.8, "humidity": 69.0, "mq2": 220, "mq7": 255, "mq135": 240}
+{"location": "AB3", "temperature": 30.8, "humidity": 69.0, "mq2": 217, "mq7": 252, "mq135": 237}
+{"location": "AB3", "temperature": 30.8, "humidity": 69.0, "mq2": 202, "mq7": 237, "mq135": 222}
+{"location": "AB3", "temperature": 30.8, "humidity": 69.0, "mq2": 213, "mq7": 248, "mq135": 233}
+{"location": "AB3", "temperature": 30.8, "humidity": 69.0, "mq2": 213, "mq7": 248, "mq135": 233}
+{"location": "AB3", "temperature": 30.8, "humidity": 69.0, "mq2": 213, "mq7": 248, "mq135": 233}
