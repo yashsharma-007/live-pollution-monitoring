@@ -1,3 +1,4 @@
+
 # Pollution Monitoring System using MQ-135 Sensor and IoT
 
 <p align="right">Author: Yash Sharma</p>
@@ -34,7 +35,7 @@ This project monitors the pollution levels in a specific area using the MQ-135 g
 
 ## Interface
 
-Below is the interface for app:
+Below is the interface for the app:
 
 ![Interface](assets/1.png)
 ![Interface](assets/2.png)
@@ -111,14 +112,15 @@ Update the following variables in the code:
 const char* ssid = "YOUR_WIFI_SSID";
 const char* password = "YOUR_WIFI_PASSWORD";
 const char* server = "YOUR_SERVER_URL";
+```
 
 ---
 
 ## File Structure
+
 Here is the directory structure for this project:
 
-graphql
-Copy code
+```
 cnproj_app/
 ├── assets/                # Contains images (e.g., circuit diagram)
 │   └── circuit_diagram.png
@@ -129,8 +131,12 @@ cnproj_app/
 │   └── lib/
 ├── .gitignore             # Git ignore file
 └── LICENSE                # Project license file
+```
+
 ---
 
 ## License
+
 This project is licensed under the MIT License. Feel free to use and modify it.
----
+
+
